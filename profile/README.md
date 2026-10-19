@@ -14,7 +14,12 @@
   <a href="https://maplespire.ca">Website</a> ·
   <a href="https://github.com/MapleSpire/maplespire">Source code</a> ·
   <a href="https://github.com/MapleSpire/maplespire/blob/main/docs/getting-started.md">Get started</a> ·
+  <a href="https://www.youtube.com/@MapleSpire">YouTube</a> ·
   <a href="https://github.com/sponsors/MapleSpire">Sponsor</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MapleSpire/.github/main/profile/images/cover.jpg" alt="One living C4 model for every architecture diagram: the same FoodDash container diagram in the 2D editor and as a 3D board" width="820">
 </p>
 
 ---
@@ -31,6 +36,13 @@ export follows.
 
 Free and open source under the AGPL-3.0. Try it on your machine in a few minutes
 with Docker: [getting started](https://github.com/MapleSpire/maplespire/blob/main/docs/getting-started.md).
+
+### Watch the 2½-minute tour
+
+<a href="https://www.youtube.com/watch?v=ZCAHP50Zly8"><img src="https://raw.githubusercontent.com/MapleSpire/.github/main/profile/images/video-tour.jpg" alt="Watch the MapleSpire product tour on YouTube" width="480"></a>
+
+Audio and captions in 11 languages: pick yours in the player's settings. More videos on the
+[MapleSpire YouTube channel](https://www.youtube.com/@MapleSpire).
 
 ### Repositories
 
